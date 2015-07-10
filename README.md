@@ -1,4 +1,4 @@
-3D lines animation with three.js 
+3D lines animation with three.js hhh
 ========================================
 ...and an animated background color
 
